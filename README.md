@@ -1,6 +1,8 @@
-# flutter_application_2
+# Sample Screens
 
 A new Flutter project.
+##Screen Shots
+![Collage Maker-10-Oct-2023-06-50-PM-9006](https://github.com/divyshukla15/sample_screens/assets/69780857/2b5e711b-a6d7-4d75-8c55-ecb2011cffc4)
 
 ## Getting Started
 
